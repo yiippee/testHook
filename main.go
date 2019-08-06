@@ -33,7 +33,7 @@ func main() {
 	sum := 0
 	for {
 		sum++
-		fmt.Println("休眠了:", sum, "秒","嘻嘻嘻")
+		fmt.Println("休眠了:", sum, "秒","嘻嘻嘻哈哈哈哈")
 		time.Sleep(2 * time.Second)
 	}
 }
