@@ -34,7 +34,7 @@ func main() {
 	for {
 		sum++
 		fmt.Println("休眠了:", sum, "秒")
-		time.Sleep(2 * time.Second)
+		time.Sleep(5 * time.Second)
 	}
 }
 
